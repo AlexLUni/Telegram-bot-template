@@ -1,0 +1,13 @@
+/__pycache__/
+/.ruff_cache
+/.mypy_cache
+/.venv
+/.cache
+/.pytest_cache
+/.vscode
+*.pyc
+*.cache
+.python-version
+resources.ini
+metrics.txt
+/app/alembic.log
